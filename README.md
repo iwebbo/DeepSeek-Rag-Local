@@ -47,10 +47,10 @@ streamlit run app.py
 
 
 🎯 Why Run DeepSeek R1 Locally?
-Benefit	Cloud-Based Models	Local DeepSeek R1
-Privacy	❌ Data sent to external servers	✅ 100% Local & Secure
-Speed	⏳ API latency & network delays	⚡ Instant inference
-Cost	💰 Pay per API request	🆓 Free after setup
-Customization	❌ Limited fine-tuning	✅ Full model control
-Deployment	🌍 Cloud-dependent	🔥 Works offline & on-premises
+Local DeepSeek R1
+Privacy : ✅ 100% Local & Secure
+Speed :	⚡ Instant inference
+Cost : 🆓 Free after setup
+Customization	: ✅ Full model control
+Deployment : 🔥 Works offline & on-premises
 
