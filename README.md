@@ -48,9 +48,9 @@ streamlit run app.py
 
 🎯 Why Run DeepSeek R1 Locally?
 Local DeepSeek R1
-Privacy : ✅ 100% Local & Secure
-Speed :	⚡ Instant inference
-Cost : 🆓 Free after setup
-Customization	: ✅ Full model control
-Deployment : 🔥 Works offline & on-premises
+- Privacy : ✅ 100% Local & Secure
+- Speed :	⚡ Instant inference
+- Cost : 🆓 Free after setup
+- Customization	: ✅ Full model control
+- Deployment : 🔥 Works offline & on-premises
 
