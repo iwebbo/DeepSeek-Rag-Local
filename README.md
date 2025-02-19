@@ -1,6 +1,12 @@
 # README : DeepSeek-Rag-Local 
 
-#### ENGLISH VERSION 
+🎯 Why Run DeepSeek R1 Locally?
+Local DeepSeek R1
+- Privacy : ✅ 100% Local & Secure
+- Speed :	⚡ Instant inference
+- Cost : 🆓 Free after setup
+- Customization	: ✅ Full model control
+- Deployment : 🔥 Works offline & on-premises
 
 ## Technologies 
 
@@ -45,12 +51,4 @@ streamlit run app.py
 
 ![image](https://github.com/user-attachments/assets/cbe9b7ef-3ff1-4df6-8b77-d28dec63bc9e)
 
-
-🎯 Why Run DeepSeek R1 Locally?
-Local DeepSeek R1
-- Privacy : ✅ 100% Local & Secure
-- Speed :	⚡ Instant inference
-- Cost : 🆓 Free after setup
-- Customization	: ✅ Full model control
-- Deployment : 🔥 Works offline & on-premises
 
