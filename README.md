@@ -41,4 +41,7 @@ Run the your Streamlit APP :
 ```
 streamlit run app.py
 ```
+2. Browse your and work with it ...
+
+![image](https://github.com/user-attachments/assets/cbe9b7ef-3ff1-4df6-8b77-d28dec63bc9e)
 
