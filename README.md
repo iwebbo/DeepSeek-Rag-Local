@@ -1,4 +1,4 @@
-# README : YolovTools
+# README : DeepSeek-Rag-Local 
 
 #### ENGLISH VERSION 
 
@@ -44,4 +44,13 @@ streamlit run app.py
 2. Browse your and work with it ...
 
 ![image](https://github.com/user-attachments/assets/cbe9b7ef-3ff1-4df6-8b77-d28dec63bc9e)
+
+
+🎯 Why Run DeepSeek R1 Locally?
+Benefit	Cloud-Based Models	Local DeepSeek R1
+Privacy	❌ Data sent to external servers	✅ 100% Local & Secure
+Speed	⏳ API latency & network delays	⚡ Instant inference
+Cost	💰 Pay per API request	🆓 Free after setup
+Customization	❌ Limited fine-tuning	✅ Full model control
+Deployment	🌍 Cloud-dependent	🔥 Works offline & on-premises
 
