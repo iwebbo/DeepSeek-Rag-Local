@@ -132,7 +132,7 @@ if uploaded_file is not None:
     st.success("PDF uploaded successfully! Processing...")
 
     # Save the uploaded file
-    with open("temp.pdf", "wb") as f:
+    with open("iatemp.pdf", "wb") as f:
         f.write(uploaded_file.getvalue())
 
     # Load the PDF
@@ -153,7 +153,7 @@ if uploaded_file is not None:
     retriever = vector.as_retriever(search_type="similarity", search_kwargs={"k": 3})
 
     # Define the LLM and the prompt
-    llm = Ollama(model="deepseek-r1:7b")
+    llm = Ollama(model="mistral")
     prompt = """
     1. Use the following pieces of context to answer the question at the end.
     2. If you don't know the answer, just say that "I don't know" but don't make up an answer on your own.\n
